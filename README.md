@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckm0207)](https://solved.ac/ckm0207)
+<br/>
+![Kwonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello1Robot&show_icons=true&theme=dark)
+<br/>
+[![RepomonUserCard](https://repomon.kr/card/user?userId=5)](https://repomon.kr/user/5)
