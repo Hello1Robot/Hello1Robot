@@ -1,4 +1,5 @@
-## 하나의 궤적을 따라 걷는, 개발자 최권민 입니다.
+## 📯 하나의 궤적을 따라 걷는, 개발자 최권민 입니다.
+![profile](https://avatars.githubusercontent.com/u/109326426?v=4)
 
 <!--
 **Hello1Robot/Hello1Robot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
