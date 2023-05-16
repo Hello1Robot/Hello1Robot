@@ -1,4 +1,4 @@
-### Hi there 👋
+## 하나의 궤적을 따라 걷는, 개발자 최권민 입니다.
 
 <!--
 **Hello1Robot/Hello1Robot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckm0207)](https://solved.ac/ckm0207)
-<br/>
+
 ![Kwonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello1Robot&show_icons=true&theme=dark)
+<br/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckm0207)](https://solved.ac/ckm0207)
 <br/>
 [![RepomonUserCard](https://repomon.kr/card/user?userId=5)](https://repomon.kr/user/5)
