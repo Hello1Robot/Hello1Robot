@@ -4,13 +4,12 @@
 
 <br/>
 ### 🥇 나의 유저 카드입니다.
-<br/>
-[![RepomonUserCard](https://repomon.kr/card/user?userId=5)](https://repomon.kr/user/5)
-<br/>
+### [![RepomonUserCard](https://repomon.kr/card/user?userId=5)](https://repomon.kr/user/5)
+
 ### 🥈 나의 대표 레포 카드입니다.
-<br/>
-[![RepomonRepoCard](https://repomon.kr/card/repo?repoId=31)](https://repomon.kr/repo/31)
-<br/>
+
+### [![RepomonRepoCard](https://repomon.kr/card/repo?repoId=31)](https://repomon.kr/repo/31)
+
 ### 🥉 나의 퍼스널 레포 카드입니다.
-<br/>
-[![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=31&userId=5)](https://repomon.kr/repo/31)
+
+### [![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=31&userId=5)](https://repomon.kr/repo/31)
