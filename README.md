@@ -1,24 +1,16 @@
 ## 📯 하나의 궤적을 따라 걷는, 개발자 최권민 입니다.
 ![profile](https://avatars.githubusercontent.com/u/109326426?v=4)
 
-<!--
-**Hello1Robot/Hello1Robot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![Kwonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello1Robot&show_icons=true&theme=dark)
 <br/>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckm0207)](https://solved.ac/ckm0207)
+### 🥇 나의 유저 카드입니다.
 <br/>
 [![RepomonUserCard](https://repomon.kr/card/user?userId=5)](https://repomon.kr/user/5)
+<br/>
+### 🥈 나의 대표 레포 카드입니다.
+<br/>
+[![RepomonRepoCard](https://repomon.kr/card/repo?repoId=31)](https://repomon.kr/repo/31)
+<br/>
+### 🥉 나의 퍼스널 레포 카드입니다.
+<br/>
+[![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=31&userId=5)](https://repomon.kr/repo/31)
